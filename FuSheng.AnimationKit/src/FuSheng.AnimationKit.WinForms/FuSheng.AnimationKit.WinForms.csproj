@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>FuSheng.AnimationKit.WinForms</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>FuShengSDK</Authors>
+    <Company>FuShengSDK</Company>
+    <Description>A lightweight WinForms animation kit providing luminous shine animation and fragment-based page transitions.</Description>
+    <PackageTags>WinForms;Animation;GDI;UI;Shine;Transition</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
